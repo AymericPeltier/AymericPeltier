@@ -3,10 +3,10 @@
 I'm Aymeric, a french self-taught Data Scientist with an academic background and experience in Finance !
 
 ### ✨ About Me in 30 Secs ✨
-👩🏻‍💻 Financial engineer with 3 years of professional experience
-📊 Transition to Data Science in September 2020
-📝 Loves learning new skills. Every week, I challenges myself to extand my knowledge of programming languages.
-📚 Enjoys travelling!
+- 👩🏻‍💻 Financial engineer with 3 years of professional experience
+- 📊 Transition to Data Science in September 2020
+- 📝 Loves learning new skills. Every week, I challenges myself to extand my knowledge of programming languages.
+- 📚 Enjoys travelling!
 
 ### 💡 Skills and tools
 - Tools: SQL (SQLite, PostgreSQL, MySQL), Python (the list is too long: Pandas, Numpy, Matplotlib, Seaborn, Tensorflow, PyTorch, Scikit-learn, ...), PowerBI, Excel (Expert), DataBricks, Git
