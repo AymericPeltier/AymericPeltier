@@ -20,6 +20,11 @@ I'm Aymeric, a french self-taught Data Scientist with an academic background and
 ### 📚 Projects & Case Studies
 - Adding soon a repo with a guide of all my projects and case studies (Few projects currently stored locally will be released soon)
 
+Currently added (README files to be written):
+- [Money Recognition using PyTorch](https://github.com/AymericPeltier/Money-Recognition)
+- [8WeeksChallenge SQL Business Cases](https://github.com/AymericPeltier/SQL-projects)
+- [Bankruptcy Prediction](https://github.com/AymericPeltier/Bankruptcy_Prediction)
+
 ### 🙌🏻 Connect with Me
 - 🔭 I’m currently creating my own website ! (more to come within October)
 - 👯 I’m looking to collaborate on any kind of Data Project (Cleaning, Visualization, Predictions, ...)
